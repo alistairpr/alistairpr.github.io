@@ -1,2 +1,1 @@
-# alistairpr.github.io
-blog
+# Alistair's blog

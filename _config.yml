@@ -1,3 +1,24 @@
-theme: minima
-title: Alistair's homepage
+
+
 description: Personal blog
+
+# Site settings
+title: Alistair's blog
+author: My Name
+email: my-email@example.com
+description: >-
+  My personal blog
+
+# Build settings
+theme: minima
+
+# Header pages
+header_pages:
+  - about.md
+
+# Social links
+github_username: alistairpr
+linkedin_username: alistairpr
+
+# Footer settings
+# ... (other footer configurations)
