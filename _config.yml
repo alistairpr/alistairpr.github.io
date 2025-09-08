@@ -1,11 +1,6 @@
-
-
-description: Personal blog
-
 # Site settings
 title: Alistair's blog
-author: My Name
-email: my-email@example.com
+avatar: /assets/profile.jpg
 description: >-
   My personal blog
 
